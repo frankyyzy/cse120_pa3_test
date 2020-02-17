@@ -7,7 +7,7 @@
  * Date: Feb 12th 2020
  *
  * DISCLAIMER: 
- * The test cases used here are from discussion slides. They will in the great 
+ * The test cases used here are from discussion slides and piazza. They will in the great 
  * majority of cases, accurately detect the presence or absence of bugs and 
  * design flaws.
  *
